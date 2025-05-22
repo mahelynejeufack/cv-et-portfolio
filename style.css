@@ -1,0 +1,10 @@
+.icon-lien {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.icon-lien img {
+    width: 20px;
+    height: 20px;
+}
